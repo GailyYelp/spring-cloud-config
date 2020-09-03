@@ -1,1 +1,2 @@
-
+config:
+  info: "dev branch, springcloud-config/config-staging.yml,version=1"
